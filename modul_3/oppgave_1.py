@@ -25,7 +25,6 @@ print(type(Hobby))
 # --- Refleksjon ---
 # 1. Jeg måtte ikke flytte på variablene for å endre rekkefølgen. 
 # Jeg skrev heller en egen linje for den med f string og formaterte i motsatt rekkefølge. 
-# Så kan man bare fjerne # forran den, og ha på # over printsa over for å velge hvem man vil printe.
 # 2. Python skrev ut de riktige datatypene som var ment for hver enkelt.
 # 3. Jeg tror python må vite hvilken datatype en variabel har fordi den behandler variablene ulikt utifra hvilken datatype det er.
 # Ekstra: Jeg fant ut at ved å bruke "\n" så avsluttes linjen å begynner på ny, da den printes! Mens der man skrive koden er den på samme linje.
